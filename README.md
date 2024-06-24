@@ -10,10 +10,6 @@ Welcome to **Space Shooter**, a thrilling game created using C++ and the SFML (S
 - [Technologies Used](#technologies-used)
 - [Game Description](#game-description)
 - [Game Entities](#game-entities)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
