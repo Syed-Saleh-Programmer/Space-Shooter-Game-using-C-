@@ -69,4 +69,4 @@ To run Space Shooter on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/spaceshooter.git
+   git clone https://github.com/Syed-Saleh-Programmer/Space-Shooter-Game-using-C-Plus-Plus.git
