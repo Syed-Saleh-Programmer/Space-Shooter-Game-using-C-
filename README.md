@@ -2,7 +2,7 @@
 
 Welcome to **Space Shooter**, a thrilling game created using C++ and the SFML (Simple and Fast Multimedia Library). This game combines engaging gameplay with educational elements to provide an enjoyable experience while learning the fundamentals of programming.
 
-![Space Shooter](path/to/your/image.png)
+![Space Shooter](https://play-lh.googleusercontent.com/VsJBTv7Ta15_SDZbxM0C-GGHhYYx2e1brTFYUx8vDafNCzJrv3mRK2iX2oX8mxb3hgU)
 
 ## Table of Contents
 
